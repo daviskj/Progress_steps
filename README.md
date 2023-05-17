@@ -1,7 +1,7 @@
 # Progress_steps
 Manual progress tracker made using JavaScript, CSS and HTML.  
 
-Potential to add automation and more steps.
+Potential to add automation if called for and more steps.
 
 
 
