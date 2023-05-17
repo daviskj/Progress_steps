@@ -1,5 +1,5 @@
 # Progress_steps
-Manual progress tracker made using JavaScript, CSS and HTML. /
+Manual progress tracker made using JavaScript, CSS and HTML. //
 Potential to add automation and more steps.
 
 Prev and Next buttons to toggle steps.
